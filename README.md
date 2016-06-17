@@ -15,6 +15,7 @@ DOI: 10.1007/s11548-016-1390-7
 http://link.springer.com/article/10.1007/s11548-016-1390-7
 
 If you like this work, please refer the above using:
+
 @Article{Chen2016,
 author="Chen, Elvis C. S.
 and Peters, Terry M.
